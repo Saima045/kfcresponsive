@@ -87,7 +87,7 @@ body{
 
 
  }
-
+/* Modify scroll bar */
  /* width */
 ::-webkit-scrollbar {
     width: 7px;
@@ -110,6 +110,7 @@ body{
 .sidebar{
    // background: red;
     height:100vh;
+    width:100px;
 
    
     

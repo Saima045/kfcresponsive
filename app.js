@@ -20,5 +20,5 @@ icon.addEventListener('click',()=>{
  })
 
  buttonSide.addEventListener('mouseover',()=>{
-    alert('im here')
+   // alert('im here')
  })
